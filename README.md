@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages
+# LIntAr
+
+## Intro
+
+In this repository there will be described the research projects developed in the lab.
+
+## People
+- Giuseppe Vizzari [Professor], giuseppe.vizzari@unimib.it
+- Daniela Briola [Researcher], daniela.briola@unimib.it
+- Thomas Cecconello [Research Fellow], thomas.cecconello@unimib.it
+
+## Projects
+- [Latent Space Explorer](https://lse.neanias.eu)
+- Pedestrian simulation
+- Virtual Reality
+
 
 You can use the [editor on GitHub](https://github.com/dr4thmos/dr4thmos.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
